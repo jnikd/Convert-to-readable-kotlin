@@ -1,2 +1,2 @@
 # Convert-to-readable-kotlin
-Readable Android code with Kotlin.
+- Readable Android code with Kotlin.
