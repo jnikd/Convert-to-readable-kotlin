@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Convert-to-readable-kotlin</string>
     <string name="action_settings">Settings</string>
+    <string name="main_text_java">この画面はJavaで実装しています。</string>
+    <string name="main_text_kotlin">この画面はKotlinで実装しています。</string>
 </resources>
